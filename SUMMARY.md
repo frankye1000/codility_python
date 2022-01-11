@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Test1](README.md)
-* [Test2](test2.md)
+* [Array](README.md)
+* [Counting Elements](counting-elements.md)

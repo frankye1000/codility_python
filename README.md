@@ -1,13 +1,8 @@
 ---
-description: Testtttttttttttttttttttt
+description: about array
 ---
 
-# Test1
+# Array
 
-* dsdas
-* dsd
-* dsd
-* ds
-* ds
-* dsfgd
-*
+* [Arrays-CyclicRotation.ipynb](Arrays-CyclicRotation.ipynb)
+* [Arrays-OddOccurrencesInArray.ipynb](Arrays-OddOccurrencesInArray.ipynb)
